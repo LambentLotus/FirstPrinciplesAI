@@ -1,6 +1,6 @@
 # FirstPrinciplesAI
 
-FirstPrinciplesAI is a Ruby toolkit designed for researchers, data scientists, and artists who approach complex AI challenges not as black-box classification problems, but through the lens of computational forensics and mathematical first principles.
+FirstPrinciplesAI is a Python toolkit designed for researchers, data scientists, and artists who approach complex AI challenges not as black-box classification problems, but through the lens of computational forensics and mathematical first principles.
 
 This toolkit provides a modular, transparent foundation for applying universal scaling laws, topological analysis (fractal geometry), and interpretable visualization techniques to diverse datasets. It rejects heuristic-heavy, opaque model architectures in favor of reproducible, mathematically grounded pipelines.
 
