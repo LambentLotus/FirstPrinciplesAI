@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "apex-guard"
+version = "3.0.0"
+description = "Deterministic mathematical forensics, bot shielding, and architectural auditing suite."
+authors = [
+    { name = "Christopher David Binns" }
+]
+dependencies = [
+    "numpy>=1.20.0"
+]
+requires-python = ">=3.8"
